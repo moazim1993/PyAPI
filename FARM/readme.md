@@ -9,3 +9,6 @@ and the responsetime is superior to Express. FastAPI also has better documentati
 
 React is the most popular javaScript frontEnd framework
 
+#### Step1
+Download MongoDB Community edition
+Download Mo
